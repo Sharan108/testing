@@ -1,0 +1,19 @@
+  {
+    "DeviceName": "/dev/xvda",
+    "Ebs": {
+      "VolumeSize": 20,
+      "DeleteOnTermination": true,
+      "VolumeType": "gp3",
+      "Encrypted": true
+    }
+  },
+  {
+    "DeviceName": "/dev/xvdb",
+    "Ebs": {
+      "VolumeSize": 35,
+      "DeleteOnTermination": true,
+      "VolumeType": "gp3",
+      "Encrypted": true
+    }
+  }
+]
